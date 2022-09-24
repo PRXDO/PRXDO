@@ -6,7 +6,8 @@
 
 ##
 
-- 🌱 Atualmente estou finalizando a graduação em engenharia da computação, estudando HTML/CSS/Javascript e buscando emprego na área
+- Atualmente estou finalizando a graduação em Engenharia da Computação
+- Estudando Desenvolvimento Web
 
 ##
 
