@@ -7,7 +7,6 @@
 ##
 
 - I am currently completing my degree in Computer Engineering
-- Studying Full Stack Development
 
 ##
 
