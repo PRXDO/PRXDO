@@ -1,12 +1,13 @@
 ### Hi! My Name is Paulo 👋
 
 <div style="display: inline_block"><br>
-  <a href="https://www.linkedin.com/in/paulo-roberto-a5a373157/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-  badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/prxdo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-  badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
 ##
 
 - I am currently completing my degree in Computer Engineering
+- Studying Data Engenieer and Python
 
 ##
 
