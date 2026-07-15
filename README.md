@@ -6,7 +6,7 @@
 
 ##
 
-- I am currently completing my degree in Computer Engineering
+- I have a degree in Computer Engineering
 - Studying Data Engenieer and Python
 
 ##
